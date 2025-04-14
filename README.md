@@ -1,0 +1,1 @@
+A Program that utilize The Reddit PRAW API and Yfinacne API to sent data to MongoDB than analyzing using a public pre-trained model, placing data back into MongoDB, and lastly visualizing the data with R Studio's libraries inccluding ggplot2 and R Shiny.
